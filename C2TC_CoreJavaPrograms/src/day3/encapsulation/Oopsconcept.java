@@ -24,7 +24,7 @@ public class Oopsconcept {
 	}
 	@Override
 	public String toString() {
-		return "Oppsconcept [serialNum=" + serialNum + ", name=" + name + ", age=" + age + "]";
+		return "Oopsconcept [serialNum=" + serialNum + ", name=" + name + ", age=" + age + "]";
 	}
 	
 
